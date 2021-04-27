@@ -1,0 +1,32 @@
+/* miniprogram/pages/base_function/index.wxss */
+page {
+  background-color: #136bdf;
+}
+.root {
+  padding: 27px 16px;
+}
+
+.list-item {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  padding: 18px 16px 19px 20px;
+  border-radius: 16px;
+  margin-bottom: 12px;
+}
+
+.list-item-header {
+  flex: 1;
+}
+
+.list-item-header-name {
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  line-height: 24px;
+  color: #22242c;
+}
+
+.list-item-header-text {
+  font-family: PingFangSC-Regular;
+	font-size: 12px;
+	color: rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,5 @@
+<!-- 组件模板 -->
+<view class="wrapper">
+  <view>电量统计</view>
+  <slot></slot>
+</view>
